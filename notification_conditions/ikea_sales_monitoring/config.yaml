@@ -1,0 +1,11 @@
+# required variables
+notification_valid_from: '2022-07-01 00:00:00'
+notification_valid_to: '2022-07-07 00:00:00'
+health_notification: true
+health_notification_every_n_hours: 1
+check_url_every_n_minutes: 10
+main_url: 'https://www.ikea.com/ru/ru/'
+
+# additional variables
+search_text: 'Товары ИКЕА станут доступны всем для покупки на сайте IKEA.ru через несколько дней.'
+count_text: 2
